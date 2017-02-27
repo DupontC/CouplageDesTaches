@@ -1,0 +1,13 @@
+# Algo couplage des taches
+
+
+## LES FICHIERS DE RÉSULTATS
+	- SOIT EN IMAGE PNG SI GRAPHVIZ EST INSTALLER SUR LA MACHINE ( http://www.graphviz.org/ )
+	- EN FICHER TEXTE (LE NOM DU FICHIER DE RÉSULTAT CORRESPOND AU DEUXIÉME ARGUMENT LORS DU LANCEMENT DE L'APPLICATION)
+
+## POUR LANCER L'APPLICATION
+```shell
+make
+./recherche_op test_file.txt resultat.txt
+```
+		
